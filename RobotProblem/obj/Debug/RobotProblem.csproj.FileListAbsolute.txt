@@ -1,0 +1,9 @@
+C:\Users\NisumUser\Desktop\Studies\Algorithms\ProblemSolving\RobotProblem\obj\Debug\RobotProblem.csprojResolveAssemblyReference.cache
+C:\Users\NisumUser\Desktop\Studies\Algorithms\ProblemSolving\RobotProblem\bin\Debug\RobotProblem.exe.config
+C:\Users\NisumUser\Desktop\Studies\Algorithms\ProblemSolving\RobotProblem\bin\Debug\RobotProblem.exe
+C:\Users\NisumUser\Desktop\Studies\Algorithms\ProblemSolving\RobotProblem\bin\Debug\RobotProblem.pdb
+C:\Users\NisumUser\Desktop\Studies\Algorithms\ProblemSolving\RobotProblem\obj\Debug\RobotProblem.exe
+C:\Users\NisumUser\Desktop\Studies\Algorithms\ProblemSolving\RobotProblem\obj\Debug\RobotProblem.pdb
+C:\Users\NisumUser\Desktop\RobotProblem\bin\Debug\RobotProblem.exe.config
+C:\Users\NisumUser\Desktop\RobotProblem\obj\Debug\RobotProblem.exe
+C:\Users\NisumUser\Desktop\RobotProblem\obj\Debug\RobotProblem.pdb
